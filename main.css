@@ -1,0 +1,72 @@
+/*
+
+.rect{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 150px;
+    font-size: 40px;
+    font-weight: 900;
+    
+}
+*/
+
+
+.inner{
+   background:  #ffffcc;
+}
+.box{
+  width:40px;
+  height:40px; 
+  border-radius: 50%;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 900;
+}
+.h2{
+    color:crimson;
+}
+.h3{
+font-size: 14px;
+
+}
+.bg1{
+ background: gold; 
+}
+.bg2{
+ background: gold; 
+}
+.bg3{
+ background: gold; 
+}
+.bg4{
+ background: gold; 
+}
+.bg5{
+ background: gold; 
+}
+.bg6{
+ background: gold; 
+}
+.bg7{
+ background: gold; 
+}
+.bg8{
+ background: gold; 
+}
+.bg9{
+ background: gold; 
+}
+.bg10{
+ background: gold; 
+}
+.bg11{
+ background: gold; 
+}
+.bg12{
+ background: gold; 
+}
+.bg13{
+    background: red;
+}
